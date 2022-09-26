@@ -1,0 +1,26 @@
+th {
+  text-align: left;
+  background: #a3c2c780;
+  padding: 20px;
+  white-space: nowrap;
+}
+td {
+  padding: 20px;
+}
+tbody {
+  white-space: nowrap;
+}
+.monthly-report thead {
+  padding: 10px;
+}
+.table-primary {
+  margin: 0 auto;
+  background-color: white;
+}
+table {
+  margin: 0 auto;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+}
